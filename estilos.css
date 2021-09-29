@@ -1,5 +1,5 @@
 #image{
-    max-width: 100%;
+    max-width: auto;
     height: auto;
     border-radius: 15px;
     display: block;
