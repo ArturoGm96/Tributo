@@ -84,4 +84,12 @@
       width: 100px;
       height: 160px;
     }
+      
+    #image{
+    width: 230%;
+    height: 200;
+    border-radius: 15px;
+    display: block;
+    margin: auto;  
+  }
   }
