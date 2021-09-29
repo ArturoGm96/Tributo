@@ -1,5 +1,5 @@
 #image{
-    max-width: 30%;
+    max-width: 50%;
     height: 50%;
     border-radius: 15px;
     display: block;
@@ -42,7 +42,7 @@
   }
   
   #liber{
-    width: auto;
+    max-width: 50%;
     height: auto;
     margin: auto;
     display: block;
